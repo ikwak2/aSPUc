@@ -2,7 +2,7 @@ Package: aSPUc
 Version: 1.00
 Date: 2017-4-8
 Title: Adaptive Sum of Powered Score Test
-Description: Some C++ coded aSPU tests that do not pass the CRAN test (aSPUperm2C, aSPUsPath2C, aSPUpath2C and aSPUsPathC). They are all much faster than R coded version in aSPU package.
+Description: Some aSPU functions coded in C++ (aSPUperm2C, aSPUsPath2C, aSPUpath2C and aSPUsPathC). They are all much faster than R coded version, but didn't passed R CRAN test. So, I upload them here separately.
 Author: Il-Youp Kwak
 Maintainer: Il-Youp Kwak <ikwak@umn.edu>
 Suggests:
