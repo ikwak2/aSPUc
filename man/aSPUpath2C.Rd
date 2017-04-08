@@ -69,7 +69,4 @@ Il-Youp Kwak and Wei Pan
 Wei Pan, Il-Youp Kwak and Peng Wei (2015)
 A Powerful and Pathway-Based Adaptive Test for Genetic Association With Common or Rare Variants, The American Journal of Human Genetics, 97, 86-98
 }
-\seealso{
-\code{\link{simPathAR1Snp}}
-}
 

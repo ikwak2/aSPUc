@@ -54,7 +54,4 @@ Il-Youp Kwak, Wei Pan (2015)
 Adaptive Gene- and Pathway-Trait Association Testing with GWAS Summary Statistics,
 Bioinformatics, 32(8):1178-1184
 }
-\seealso{
-\code{\link{aSPUs}}
-}
 

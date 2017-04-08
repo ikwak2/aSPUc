@@ -43,7 +43,6 @@
 #'
 #' out.a
 #'
-#' @seealso \code{\link{aSPUs}}
 
 aSPUsPathC <- function(Zs, corSNP, pow=c(1,2,4,8, Inf),
                       pow2 = c(1,2,4,8), 
