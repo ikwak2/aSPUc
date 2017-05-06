@@ -1,4 +1,6 @@
 export(aSPUpath2C)
+export(aSPUpermC2)
+export(aSPUsimC2)
 export(aSPUsPathC)
 export(aSPUsPath2C)
 export(aSPUperm2C)
